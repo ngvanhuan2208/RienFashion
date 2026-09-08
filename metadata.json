@@ -1,0 +1,6 @@
+{
+  "name": "RiEn - Beauty, Made Personal",
+  "description": "Boutique thời trang nữ, mỹ phẩm và quà tặng cao cấp với trải nghiệm cá nhân hóa độc quyền Make It Yours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
